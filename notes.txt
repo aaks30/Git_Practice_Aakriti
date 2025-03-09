@@ -1,0 +1,1 @@
+Git is a version control tool to ensure the changes done to a code are properly vetted and incase of any issue could be reverted to the previous state. Github is a part of Git where collaborators make changes in the branches and push it on the main branch 
