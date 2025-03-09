@@ -1,1 +1,0 @@
-a) Learn Git commands \nb)Learn to branch and merge \nc) commit code on Github
